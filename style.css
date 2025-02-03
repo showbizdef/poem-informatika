@@ -1,0 +1,46 @@
+body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        font-family: "Mulish", sans-serif;
+        text-align: center;
+        background: linear-gradient(135deg, #ddd454, #ac09d4);
+    }
+
+
+    .container {
+        text-align: center;
+        padding: 20px;
+        color: rgb(0, 0, 0 / 1.0);
+        background-color: #ffffff;
+        border: none;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
+        font-family: "Mulish", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+    }
+
+    .poem {
+        width: 80%;
+        max-width: 800px;
+    }
+
+    h1, h2 {
+        margin: 0.5em 0;
+        color: black;
+        font-family: "Liter", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    p {
+        margin: 1em 0;
+        color: black;
+        font-family: "Liter", serif;
+        font-weight: 400;
+        font-style: normal;
+     }
